@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "src/*": ["src/*"],
+      "components/*": ["src/components/*"],
+      "pages/*": ["pages/*"],
+      "fonts/*": ["public/fonts/*"],
+      "images/*": ["public/images/*"],
+      "icons/*": ["public/icons/*"],
+      "styles/*": ["styles/*"],
+      "theme/*": ["theme/*"],
+      "hooks/*": ["src/hooks/*"],
+      "mocks/*": ["src/mocks/*"],
+      "ms100/*": ["src/components/ms100/*"],
+      "middleware/*": ["middleware.js"]
+    }
+  }
+}
